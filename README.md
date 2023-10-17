@@ -46,4 +46,4 @@ To deploy and interact with the DegenToken smart contract, you need to be famili
 
 ## License
 
-This smart contract is released under the MIT License. See [LICENSE](LICENSE) for more details.
+This smart contract is released under the MIT License. 
