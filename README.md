@@ -7,7 +7,6 @@ The DegenToken smart contract is an Ethereum-based token contract that adheres t
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -44,10 +43,6 @@ To deploy and interact with the DegenToken smart contract, you need to be famili
 5. Create and add custom power-ups using the "addCustomPowerUp" function.
 6. Users can purchase power-ups using the "purchasePowerUp" function.
 7. Check user power-ups and remaining durations for active power-ups using the respective functions.
-
-## Contributing
-
-If you'd like to contribute to the development of this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
